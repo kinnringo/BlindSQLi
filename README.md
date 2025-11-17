@@ -1,6 +1,6 @@
 # BlindSQLinjection.py
 
-CTF等でのBlindSQLinjection用スクリプトです
+CTF等で使用するための、BlindSQLinjection用スクリプトです
 
 使い方:
 
